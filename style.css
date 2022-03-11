@@ -1,0 +1,165 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.Header{
+    position: absolute;
+width: 1024px;
+height: 100px;
+left: 0px;
+top: 0px;
+
+background: #222222;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+h1{ position: absolute;
+    width: 132px;
+    height: 28px;
+    left: 122px;
+    top: 36px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #39B24A;
+}
+
+.meio{
+    color: white;
+}
+
+.Fronte{
+    color: red;
+}
+
+.lista{position: absolute;
+    width: 132px;
+    height: 28px;
+    left: 550px;
+    top: 36px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #F3F3F3;
+    display: flex ;
+    list-style: none;
+    
+ 
+}
+
+header li{
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.bloco1{
+    position: absolute;
+width: 490px;
+height: 350px;
+left: 19px;
+top: 135px;
+color: red;
+text-align: center;
+
+background-image: url(../img/delivery.jpg);
+border-radius: 5px;
+
+}
+
+.comp{
+    color: white;
+}
+
+.Menu{
+    position: absolute;
+width: 1390px;
+height: 350px;
+left: 19px;
+top: 135px;
+color: red;
+text-align: center;
+}
+
+ol{
+    color: black;
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+}
+
+.img3{
+    position: absolute;
+    width: 1390px;
+    height: 350px;
+    left: 120px;
+    top: 135px;
+    
+
+}
+
+.top5{
+    position: absolute;
+    width: 1390px;
+    height: 350px;
+    right: 80px;
+    top: 135px;
+    
+
+}
+
+h3{
+    color: black;
+    position: ab;
+    
+}
+
+footer{
+    position: absolute;
+width: 1024px;
+height: 150px;
+left: 0px;
+top: 520px;
+background-color: black;
+}
+
+.lista2{
+    position: absolute;
+width: 1024px;
+height: 120px;
+left: calc(50% - 1024px/2);
+bottom: 5px;
+color: white;
+
+}
+
+.footerimg{
+    position: absolute;
+    width: 1024px;
+    height: 120px;
+    left: 640px;
+    bottom: 5px;
+    
+
+}
+
+#h1{
+    position: absolute;
+    width: 1324px;
+    height: 220px;
+    left: 750px;
+    top: 50px;
+
+}
